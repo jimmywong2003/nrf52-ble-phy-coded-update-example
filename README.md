@@ -50,7 +50,7 @@ static void button_event_handler(uint8_t pin_no, uint8_t button_action)
 * IDE Segger Embedded Studio
 
 ## Details
-You can find all the details information at [URL]().
+You can find all the details information at [URL](https://jimmywongiot.com/2020/05/06/how-to-work-with-ble-codec-1mbps-2mbps-and-codec-phy-on-nrf52-series/).
 
 ## Location
 The project may need modifications to work with later versions or other boards.
